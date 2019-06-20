@@ -1,0 +1,37 @@
+# Site settings
+baseurl = "https://chrs.dev/"
+themesDir = "themes"
+languageCode = "en-us"
+title = "chrs.dev"
+theme = "cactus"
+# Enter your tracking code to enable Google Analytics
+# googleAnalytics = ""
+# Disable comments by leaving disqusShortname empty
+# disqusShortname = "spf13"
+
+[params]
+	name = "Christian Mutti"
+	description = "Ocasional ramblings of a socially awkward software engineer."
+	bio = "Software Engineer"
+	# Enter optionally your twitter account
+	twitter = "chrsmutti"
+	enableRSS = true
+
+	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
+	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
+	customCSS = []
+	customJS  = []
+
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
+
+	# Sharing options and author information in posts
+	aboutAuthor = "I'm Chris."
+
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "font-awesome"
+
+# Add additional social link entries underneath
+[social]
+    twitter  = "https://www.twitter.com/chrsmutti"
+    github   = "https://www.github.com/chrsmutti"
