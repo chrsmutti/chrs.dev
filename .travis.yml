@@ -9,3 +9,7 @@ install:
 before_script: npm install -g firebase-tools
 script: hugo
 after_script: firebase deploy --token $FIREBASE_TOKEN
+
+branches:
+  only:
+  - master
