@@ -14,6 +14,8 @@ Two years might not seem like a lot, but working for a small startup made a lot
 of difference, being exposed to new technologies and having people to support me
 while I was learning.
 
+## Knowing that you don't know
+
 Looking back with the power of hindsight my biggest lesson was that **there is**
 **so much I don't actually know**. At that time I had been programming for 10 years,
 _if you call the first few years as actually programming_, I had tested the waters
@@ -37,6 +39,8 @@ source software development", that was the first time I had to tackle a codebase
 larger than a dozen files, with a clear goal and being exposed to code that
 wasn't written by me. A couple months after that I landed my first _real_
 programming job.
+
+## Knowing how to search what you don't know
 
 One of the most important tools of the job has to be Google (_or DDG!_),
 but it's one of the hardest to actually get it right, **knowing what and how to**
