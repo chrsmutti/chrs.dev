@@ -1,12 +1,11 @@
 ---
 title: "Lessons Learned in 2 years as a Software Developer"
-date: 2019-06-20T20:44:39-03:00
-draft: true
+date: 2019-06-21T17:00:00-03:00
 ---
 
 I've been interested and learning programming for mos of my life, since I was
-11 years old tinkering with [RPG Maker](https://www.google.com/search?q=rpg+maker+xp&tbm=isch) and dreams of being a full time game
-developer.
+11 years old tinkering with [RPG Maker](https://www.google.com/search?q=rpg+maker+xp&tbm=isch)
+and dreams of being a full time game developer.
 
 Fast-forward **12 years in the future**, two years into the best job I could ever
 hope for, a lot learned along the way and a lot more to learn in the future.
