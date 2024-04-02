@@ -29,7 +29,7 @@ enableEmoji = true
   title = "chrs.dev"
   dateFormat = "2006-01-02"
   hideUntranslated = false
-  themeStyle = "original"
+  themeStyle = "herman"
   generateSocialCard = true
 
   [params.social]
