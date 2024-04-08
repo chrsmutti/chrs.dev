@@ -21,7 +21,7 @@ enableEmoji = true
       madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
 
 [params]
-  description = "Ocasianal ramblings of a Software Engineer"
+  description = "Occasional ramblings of a Software Engineer"
   favicon = "favicon.png"
 
   images = []
