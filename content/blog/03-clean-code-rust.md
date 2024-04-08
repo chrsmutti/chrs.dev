@@ -77,7 +77,7 @@ code, but rather, the code in the "caller" side (the benchmark function). Using
 ```rust
     #[bench]
     fn total_area_sum4(b: &mut Bencher) {
-        let shapes = init(COUNT);
+        let shapes: Vec<Box<dyn Shape>> = init(COUNT);
 
         b.iter(|| {
             let mut accum1 = 0f32;
