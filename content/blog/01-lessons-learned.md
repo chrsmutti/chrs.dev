@@ -1,6 +1,10 @@
 ---
 title: "Lessons Learned in 2 years as a Software Developer"
 date: 2019-06-21T17:00:00-03:00
+rss: true
+slug: lessons-learned
+aliases:
+  - 01-lessons-learned
 ---
 
 I've been interested and learning programming for most of my life, since I was

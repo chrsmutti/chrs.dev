@@ -1,4 +1,4 @@
-Hi, I'm Chris. A software developer from Brazil :brazil:. 
+Hi, I'm Chris. A software developer from Brazil :brazil:.
 
 Here you'll find occasionally my ramblings about software development, data
 engineering and random tech, if you're lucky. Mostly this blog is a collection

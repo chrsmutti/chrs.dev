@@ -1,6 +1,10 @@
 ---
 title: '"Clean" Code, Horrible Performance in Rust'
 date: 2024-04-07T22:45:00-03:00
+rss: true
+slug: clean-code-rust
+aliases:
+  - 03-clean-code-rust
 ---
 
 I was just recently going through some old episodes from

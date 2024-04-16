@@ -1,6 +1,10 @@
 ---
 title: Respawn
 date: 2024-03-31T00:11:00-03:00
+rss: true
+slug: respawn
+aliases:
+  - 02-respawn
 ---
 
 ![Bernie Sanders, writing on the bottom says "I am once again trying to write more on my blog"](/images/02-respawn-once-again.webp)
