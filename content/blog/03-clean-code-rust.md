@@ -24,6 +24,13 @@ experiment with how structuring the code may lead to a big performance penalty.
 All the code I reference in this post is available in
 [this Gist](https://gist.github.com/chrsmutti/698f979ad07be89ec3319dceb13565a9).
 
+---
+
+You can also check this awesome video by
+[@lavafroth](https://www.youtube.com/@lavafroth), that goes over this article
+and further explains some areas I might have missed:
+[Two Decades of Hardware Optimizations Down The Drain](https://www.youtube.com/watch?v=GA4ONupSl8Y&feature=youtu.be)
+
 ## Base Case: Traits
 
 Starting with all the "Clean" Code principles, we would likely implement
